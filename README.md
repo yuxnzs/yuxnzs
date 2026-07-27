@@ -1,1 +1,1 @@
-嗨！👋 歡迎來到我的 GitHub 頁面。這裡收錄了我在 Mobile、Web 與 Backend 領域的各種專案與學習成果。
+嗨！👋 歡迎來到我的 GitHub 頁面。這裡收錄了我在 Mobile、Web 與 Backend 的各種專案與學習成果。
